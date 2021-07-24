@@ -7,7 +7,7 @@
 //   let i = 0;
 
 //   const interval = setInterval(() => {
-//     item.style[sad] = fakeUploadPercentage[i] + "%";
+//     progress.style.width = fakeUploadPercentage[i] + "%";
 //     loading.innerHTML = fakeUploadPercentage[i] + "%";
 //     i++;
 //     console.log(i);
